@@ -8,3 +8,5 @@ This is a bootstrap application using [spring-boot](https://github.com/spring-pr
 # Run the Application Locally
 
 `mvn spring-boot:run`
+
+Visit [http://localhost:8080/](http://localhost:8080/) for the locally deployed application.
